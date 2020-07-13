@@ -1,2 +1,2 @@
-# coronavirus-tracker-master
- corona tracker made using thymeleaf and spring boot
+# Corona Virus Tracker
+A Corona tracker made using Thymeleaf and Spring Boot
