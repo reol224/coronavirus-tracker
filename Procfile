@@ -1,1 +1,1 @@
-web java -jar coronavirus-tracker/src/main/resources/META-INF/MANIFEST.MF
+web java -jar target/coronavirus-tracker-0.0.1-SNAPSHOT.jar
