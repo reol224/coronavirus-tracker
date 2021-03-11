@@ -1,4 +1,4 @@
-package io.jul.coronavirustracker;
+package main.java.io.jul.coronavirustracker;
 
 import io.jul.coronavirustracker.config.DataUrlProperties;
 import io.jul.coronavirustracker.services.CoronaVirusDataService;
